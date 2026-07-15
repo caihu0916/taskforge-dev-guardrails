@@ -1,14 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'f27366ec-b4c7-40b1-b26f-8333a50d471d'
-  PropagateID: 'f27366ec-b4c7-40b1-b26f-8333a50d471d'
-  ReservedCode1: '500cf4e5-88fe-458c-9c72-c2c4aed4fd34'
-  ReservedCode2: '500cf4e5-88fe-458c-9c72-c2c4aed4fd34'
----
-
 # TaskForge 开发护栏
 
 > 基于 534+ 项历史错误的根因分析，提炼的 10 条强制开发规则。预防的成本是治疗的 1/10 到 1/50。
