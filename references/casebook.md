@@ -1,14 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '0520dacd-5cb7-48e9-a9a4-1bc9478bc47b'
-  PropagateID: '0520dacd-5cb7-48e9-a9a4-1bc9478bc47b'
-  ReservedCode1: '473cdf5a-383b-4e8d-94ed-5a332325b219'
-  ReservedCode2: '473cdf5a-383b-4e8d-94ed-5a332325b219'
----
-
 # TaskForge 事故案例库
 
 > 每条规则背后的真实事故。遇到类似场景时应主动查阅，避免重蹈覆辙。
